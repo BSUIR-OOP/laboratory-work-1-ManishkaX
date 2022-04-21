@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net6.0": []
   },
   "packageFolders": {
     "/Users/Manishka/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Manishka/Downloads/Lab_1/Lab_1.csproj",
-      "projectName": "Lab_1",
-      "projectPath": "/Users/Manishka/Downloads/Lab_1/Lab_1.csproj",
+      "projectUniqueName": "/Users/Manishka/RiderProjects/Lab1_OOP/Lab1_OOP.csproj",
+      "projectName": "Lab1_OOP",
+      "projectPath": "/Users/Manishka/RiderProjects/Lab1_OOP/Lab1_OOP.csproj",
       "packagesPath": "/Users/Manishka/.nuget/packages/",
-      "outputPath": "/Users/Manishka/Downloads/Lab_1/obj/",
+      "outputPath": "/Users/Manishka/RiderProjects/Lab1_OOP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Manishka/.config/NuGet/NuGet.Config"
+        "/Users/Manishka/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
